@@ -1,3 +1,6 @@
+"""
+게시글의 커버 이미지를 조회
+"""
 
 from selenium import webdriver
 # from selenium.webdriver.chrome.service import Service

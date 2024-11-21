@@ -1,6 +1,3 @@
-"""
-환경변수 로드
-"""
 import os
 from dotenv import load_dotenv
 

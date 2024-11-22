@@ -17,3 +17,9 @@ pip freeze > requirements.txt
 # 패키지 설치
 
 pip install -r requirements.txt
+
+# pm2 재시동시 재시작
+
+pm2 startup
+
+pm2 save
